@@ -1,19 +1,5 @@
 # Test Automation Project
 
-## Overview
-This project is an automated test framework built using Playwright for testing the Pixels Suite Chat Translator application. It provides automated testing capabilities for Singlish to Sinhala translation functionality.
-
-## Project Details
-
-**Repository:** https://github.com/madhawadiyanath/asiment-itpm.git
-
-**IT Number:** IT23844506
-
-**Author:** Swarnakantha L M D
-
-```markdown
-# Test Automation Project
-
 Automated test framework for validating the Pixels Suite Chat Translator application using Playwright and Excel-based test cases.
 
 ## Project Details
@@ -113,7 +99,8 @@ asiment-itpm/
 ├── it23844506_test_automation.py
 ├── it23844506_Test_cases.xlsx
 ├── it23844506_Requiredment.txt
-└── it23844506_README.md
+├── it23844506_README.md
+└── README.md
 ```
 
 ## Notes
@@ -129,4 +116,3 @@ This project is submitted for academic purposes as part of the ITPM assignment.
 ---
 
 Created by Madhawa for IT23844506.
-```
